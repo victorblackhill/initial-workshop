@@ -16,3 +16,64 @@ body{
     height:100px;
     width:100px;
 }
+
+/* Iteration 2 */
+.table {
+    width: 300px ;
+    height: 150px;
+    background-color : white;
+}
+
+.standard {
+    background-color: white;
+    border-style:solid;
+    border-width: 1px;
+
+
+}
+.not-standard {
+    background-color : green;
+    border-style:solid;
+    border-width: 1px;
+}
+
+/*Iteration 4*/
+
+.container {
+    border:solid;
+    width:300px;
+    margin:5px;
+}
+
+.purple{
+    background-color: purple;
+    border-color:white;
+    border-left:5px solid white;
+    border-top: 5px solid white;
+    color :white;
+    padding:5px;
+}
+
+.big-case {
+    width: 225px;
+
+}
+
+.small-case {
+    width: 45px;
+}
+
+#onlyid {
+    box-align: left;
+    margin-left:55px;
+}
+
+.left-text{
+    text-align: right;
+}
+
+
+
+
+
+
